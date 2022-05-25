@@ -7,5 +7,4 @@ Each feature is a point and UI is a point too.
 Tip: UI is optional and not required.
 
 
-# Timelimit: 03/11/2019 @ 13:15:00 (UK)
 
